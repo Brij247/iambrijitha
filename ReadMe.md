@@ -4,7 +4,7 @@
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> A bit About Me
 
 
-  -Ambitious Frontend enthusiast
+  -Ambitious Frontend enthusiast <br>
   -Passionate Software Engineer
 
 
