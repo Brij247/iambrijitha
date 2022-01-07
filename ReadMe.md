@@ -1,27 +1,15 @@
-## <h1><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="50px"> Hi,there! </h1>
-# :nerd_face: I am Brijitha!
-
-I am a Tech and Frontend enthusiast and a Software Developer based in New Delhi, India. I am a engineering Graduate specialized in Computer Science and engineering from University College of Engineering,Nagercoil.
+## <h1>:nerd_face: Hi,there! I am Brijitha!</h1>
 
 
-## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
+## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> A bit About Me
 
-- I interned as an *SDE* at **Salesforce** and worked with their Security Infrastructure Team.
-- Was also a part of the **Microsoft** Codess Mentorship Program 2020.
-- Currently serving as the *Web Lead* at **Google Developer Students Club** of NSUT.
-- I also worked as a *Teaching Assistant* at **Coding Ninjas** for the Data Structures and Algorithms course.
+
+  -Ambitious Frontend enthusiast
+  -Passionate Software Engineer
+
 
 <br>
 
-<p align-items = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saumyasingh203&count_private=true&show_icons=true&title_color=f69673&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh203&hide=matlab,php&title_color=f69673&icon_color=1b93c9&show_owner=true&langs_count=8">
-
-  <br>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=saumyasingh203&color=orange" />
-  
-  
-</p>
 
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
