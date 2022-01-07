@@ -4,8 +4,12 @@
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> A bit About Me
 
 
-  -Ambitious Frontend enthusiast <br>
-  -Passionate Software Engineer
+  -Visual Programmer <br>
+  -Passionate Software Engineer<br>
+  -{MERN}<br>
+  -Studied Computer Science and Engineering at Anna University<br>
+  -freelancer
+  
 
 
 <br>
@@ -26,13 +30,8 @@
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
 
-<!-- ## <img src="https://media.giphy.com/media/bZmVvb3gFjtak149u1/giphy.gif" width="50px"> My Coding Profiles
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/saumyasingh203/practice)](https://auth.geeksforgeeks.org/user/saumyasingh203/practice)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://auth.geeksforgeeks.org/user/saumyasingh203/practice)](https://auth.geeksforgeeks.org/user/saumyasingh203/practice)
-[![GeeksforGeeks Badge](https://run.kaist.ac.kr/badges/codeforces/jo_on.svg?style=for-the-badge&logo=CodeForces&logoColor=white&link=https://auth.geeksforgeeks.org/user/saumyasingh203/practice)](https://auth.geeksforgeeks.org/user/saumyasingh203/practice)
- -->
 
-## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
+## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Let's Connect!
 <code><a href="https://www.linkedin.com/in/brijithaav/"><img width="42px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="mailto:brijithaav@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
