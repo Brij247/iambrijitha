@@ -5,10 +5,9 @@
 
 
   -Visual Programmer <br>
-  -Passionate Software Engineer<br>
-  -{MERN}<br>
-  -Studied Computer Science and Engineering at Anna University<br>
-  -freelancer
+  -{MERN} :nerd_face:<br>
+  -Studied Computer Science and Engineering,Anna University<br>
+  -freelancer :slightly_smiling_face:
   
 
 
